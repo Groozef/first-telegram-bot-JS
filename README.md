@@ -8,7 +8,8 @@ I came up with the idea to write such a telegram bot, at first I was considering
 but then I thought "Damn, I write in JS, 
 I think it will be possible to write in JS", 
 then I looked for an easy way to write a bot, found sources, watched the video, well and I wrote a bot in 5 hours of time
-P.S. All the best:)
+P.S. I ask you not to judge strictly, since this is my first bot, and I also needed to make peace with the my girlfriend as soon as possible. XD
+All the best:)
 
 -----------------------------------------------------------------------
 
@@ -21,4 +22,6 @@ Wpadłem na pomysł napisania takiego bota telegram, na początku zastanawiałem
 ale potem pomyślałem " cholera, piszę w JS, 
 Myślę, że będzie można pisać w JS", 
 potem Szukałem łatwego sposobu na napisanie danego bota, znalazłem źródła, obejrzałem wideo, no i napisałem książkę w ciągu 5 godzin.
-P.S. Wszystkiego dobrego
+P.S. Proszę, abyście nie oceniali surowo, ponieważ to mój pierwszy bot, a ja też musiałem jak najszybciej pogodzić się z swoją dziewczyną XD
+Wszystkiego dobrego:)
+
